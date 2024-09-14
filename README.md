@@ -22,7 +22,7 @@ Description of project here and discussion of the fact that it's super awesome a
 > 
 > (1)
 > 
->  (A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; or [...]
+>  (A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; [...]
 > 
 > (2) such amount of punitive damages as the court may allow; and
 > 
