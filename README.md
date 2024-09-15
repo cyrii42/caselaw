@@ -28,7 +28,7 @@ Description of project here and discussion of the fact that it's super awesome a
 
 - [*Smith v. LexisNexis Screening Solutions, Inc.*](https://www.westlaw.com/Document/I93d553407a3711e6b63ccfe393a33906/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 837 F.3d 604 (6th Cir. 2016)
 
-- *Ramirez v. Trans Union, LLC*, 951 F.3d 1008, 1031-33 (9th Cir. 2020), *rev’d in part on other grounds*, 594 U.S. 413 (2021)
+- *Ramirez v. Trans Union, LLC*, 951 F.3d 1008, 1031-33 (9th Cir. 2020), *rev’d in part on other grounds sub nom Trans Union, LLC v. Ramirez*, 594 U.S. 413 (2021)
 
 - [*Taylor v. Screening Reports, Inc.*](https://www.westlaw.com/Document/Ibbd41f1016db11e8b7ce8230219a322d/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), No. 11-cv-03426, 2013 WL 12328948, at *5-7 (N.D. Ga. July 16, 2013), *report and recommendation adopted in relevant part*, 294 F.R.D. 680 (N.D. Ga. 2013) (denying defendant’s MSJ on § 1681e(b) claim based on CRA’s failure to obtain and consider conflicting information available in full criminal record)
 
