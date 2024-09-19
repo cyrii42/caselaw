@@ -1,0 +1,2 @@
+- [15 U.S.C. § 1681e(b)](https://www.law.cornell.edu/uscode/text/15/1681e) (Maximum Possible Accuracy)
+> Whenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the report relates.

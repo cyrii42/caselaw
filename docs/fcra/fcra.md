@@ -1,35 +1,9 @@
-**# Top Header
-
-Description of project here and discussion of the fact that it's super awesome and cool.
-
-<h2>Table of Contents</h2>
-
-- [Fair Credit Reporting Act](#fair-credit-reporting-act)
-  - [15 U.S.C. § 1681e(b) (Maximum Possible Accuracy)](#15-usc--1681eb-maximum-possible-accuracy)
-    - [Single-Identifier Matching Cases](#single-identifier-matching-cases)
-    - [Cases re CRA Failure to Consider Conflicting Information](#cases-re-cra-failure-to-consider-conflicting-information)
-    - ["Technically Accurate" Cases](#technically-accurate-cases)
-  - [FCRA Class Certification Decisions](#fcra-class-certification-decisions)
-    - [Ascertainability](#ascertainability)
-    - [Predominance / Individualized Issues](#predominance--individualized-issues)
-  - [15 U.S.C § 1681n (Willfulness)](#15-usc--1681n-willfulness)
-    - [Arguments Based on "Industry Standards"](#arguments-based-on-industry-standards)
-    - [Arguments Based on "Dispute Rates"](#arguments-based-on-dispute-rates)
-  - [15 U.S.C § 1681i (Reinvestigations)](#15-usc--1681i-reinvestigations)
-  - [Punitive Damages in FCRA Cases](#punitive-damages-in-fcra-cases)
-- [Class Certification](#class-certification)
-  - [Ascertainability](#ascertainability-1)
-  - [Predominance](#predominance)
-    - [Hypothetical scenarios](#hypothetical-scenarios)
-- [Article III Standing](#article-iii-standing)
-  - [FCRA Cases](#fcra-cases)
-  - [FDCPA Cases](#fdcpa-cases)
-
-## Fair Credit Reporting Act
-### [15 U.S.C. § 1681e(b)](https://www.law.cornell.edu/uscode/text/15/1681e) (Maximum Possible Accuracy)
+# Fair Credit Reporting Act
+## Maximum Possible Accuracy
+- [15 U.S.C. § 1681e(b)](https://www.law.cornell.edu/uscode/text/15/1681e) (Maximum Possible Accuracy)
 > Whenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the report relates.
 
-#### Single-Identifier Matching Cases
+### Single-Identifier Matching Cases
 
 - [*Cortez v. TransUnion*](https://www.westlaw.com/Document/Ia8f0f2e6a6ec11dfb5fdfcf739be147c/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 617 F.3d 688 (3d Cir. 2010)
 
@@ -52,7 +26,7 @@ Description of project here and discussion of the fact that it's super awesome a
 - *Adan v. Insight Investigation, Inc.*, No. 16-cv-02807, 2018 WL 467897, at *11 (S.D. Cal. Jan. 18, 2018) (denying MSJ on claim for willful violation of § 1681e(b) claim based on first-and-last name and date-of-birth criminal-record matching)
 - *Patel v. Trans Union, LLC*, 308 F.R.D. 292, 302 (N.D. Cal. 2015) (certifying class for FCRA claims based on name-only OFAC List matching), settlement approved, 2018 WL 1258194 (N.D. Cal., Oct. 26, 2017) (granting final approval to $8 million class settlement). 
 
-#### Cases re CRA Failure to Consider Conflicting Information
+### Cases re CRA Failure to Consider Conflicting Information
 
 - *Wright v. Experian Info. Sols., Inc.*, 805 F.3d 1232, 1239 (10th Cir. 2015) (“Courts have held CRAs must look beyond information furnished to them when it is inconsistent with the CRAs’ own records, contains a facial inaccuracy, or comes from an unreliable source.”)
 - *Taylor v. Screening Reports, Inc.*, No. 11-cv-03426, 2013 WL 12328948, at *5–7  (N.D. Ga. July 16, 2013) (denying defendant’s MSJ on § 1681e(b) claim re CRA’s failure to obtain and consider conflicting information available in full criminal record), *report and recommendation adopted in relevant part*, 294 F.R.D. 680 (N.D. Ga. 2013)
@@ -64,8 +38,7 @@ Description of project here and discussion of the fact that it's super awesome a
 - *McKeown v. Sears Roebuck & Co.*, 335 F. Supp. 2d 917, 925–26, 936 (W.D. Wis. 2004) (denying MSJ on § 1681i “reasonable reinvestigation” claim where plaintiff disputed deceased indicator on report and TransUnion thereafter “knew or should have known that [credit furnisher’s] information was not trustworthy” because furnisher’s automated dispute response “verified plaintiff's name as a whole but reported that the middle initial and last name . . . did not match the one on the account”)
 - *Gohman v. Equifax Info. Servs., LLC*, 395 F. Supp. 2d 822, 827–28 (D. Minn. 2005) (denying MSJ on § 1681e(b) claim where CRA issued “at least five” consumer reports with inaccurate deceased notation received from one furnisher, even though “numerous other accounts were opened or remained active” and deceased notation was therefore “plainly inconsistent with other information in [plaintiff’s] file”); 
 
-#### "Technically Accurate" Cases
-
+### "Technically Accurate" Cases
 
 
 - [*Gomez v. Kroll Factual Data, Inc.*](https://www.westlaw.com/Document/I9180e3c3610911e39ac8bab74931929c/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 20 F. Supp. 3d 1103, 1107 (D. Colo. 2013) (rejecting argument that "a notation of 'similar to' is not inaccurate because nothing in the Consumer Report states that Plaintiff is either Gabriel Gomez Chavez or any other individual on the OFAC List")
@@ -118,51 +91,3 @@ Description of project here and discussion of the fact that it's super awesome a
   
 ### Punitive Damages in FCRA Cases
 - [*Williams v. First Advantage LNS Screening Sols., Inc.*](https://www.westlaw.com/Document/I687bb510334111ea9076f88ee0fd553a/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 947 F.3d 735 (11th Cir. 2020)
-
-## Class Certification
-
-### Ascertainability
-
-- asdf
-
-### Predominance
-
-#### Hypothetical scenarios
-
-- [*Van v. LLR, Inc.*](https://www.westlaw.com/Document/I8535be00c1d511edb30aae965a5264be/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 61 F.4th 1053, 1067-68 (9th Cir. 2023)
-  > ***If the plaintiff demonstrates that class issues exist, the defendant must invoke individualized issues and provide sufficient evidence that the individualized issues bar recovery on at least some claims, thus raising the spectre of class-member-by-class-member adjudication of the issue.*** See True Health Chiropractic, Inc. v. McKesson Corp., 896 F.3d 923, 932 (9th Cir. 2018) (“[W]e do not consider ... defenses that [the defendant] might advance or for which it has presented no evidence.” (emphasis added)).
-  >
-  > If the defendant provides evidence that a valid defense—affirmative or otherwise—will bar recovery on some claims, then the district court must determine, based on the particular facts of the case, “whether individualized questions ... ‘will overwhelm common ones and render class certification inappropriate under Rule 23(b)(3).’ ” Olean, 31 F.4th at 669 (quoting Halliburton Co. v. Erica P. John Fund, Inc., 573 U.S. 258, 276, 134 S.Ct. 2398, 189 L.Ed.2d 339 (2014))
-  >
-  > As pertains to the voluntary payment issue raised by LuLaRoe, LuLaRoe failed to provide sufficient evidence that any class member would lack a meritorious claim on this basis. Only a handful of Alaskan invoices submitted to the district court demonstrate that the purchaser knew of the sales tax issue before completing the purchase. And on each of these invoices, the purchaser was provided a discount on the transaction equal to or greater than the amount of improper sales tax, with at least some of the discounts provided for the express purpose of offsetting the sales tax.A nd, as discussed below, any purchaser who received a discount in an amount greater than or equal to the improper sales tax for the purpose of offsetting the sales tax never paid the improper tax at all.
-  > 
-  > Because these purchasers did not pay the sales tax, or at least their invoices do not demonstrate that they paid the sales tax, their invoices are not sufficient evidence that any class member knew of the sales tax and then paid it. The invoices, then, are not sufficient evidence that the individualized issue of voluntary payment bars recovery on at least some claims.
-  >
-  >The fashion retailer declarations suffer from the same problem. Although the declarations generally assert that some consumers across the country were told of the sales tax issue, the declarations do not state with certainty that any member of this Alaska class was informed of the nature of the improper sales tax, was not provided a discount, and paid the sales tax nonetheless.
-  >
-  >***We do not permit a defendant to support its invocation of individualized issues with mere speculation.*** See True Health, 896 F.3d at 932. LuLaRoe's scant evidence of voluntary payment is not sufficient to defeat predominance.
-
-- [*True Health Chiropractic, Inc. v. McKesson Corp.*](https://www.westlaw.com/Document/Ia19c2f8089df11e8a5b89e7029628dd3/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 896 F.3d 923, 931–32 (9th Cir. 2018) ("Since McKesson bears the burden [on its affirmative defense of consent], we assess predominance by analyzing the consent defenses McKesson has actually advanced and for which it has presented evidence. A defendant can produce evidence of a predominance-defeating consent defense in a variety of ways. But we do not consider the consent defenses that McKesson might advance or for which it has presented no evidence.")
-
-- [*Magallon v. Robert Half Int'l, Inc.*](https://www.westlaw.com/Document/Ib075dc10725711ef861f9b5d0624970e/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), No. 13-cv-1478, 2024 WL 4182846, at *11 & n.11 (D. Or. Sept. 13, 2024)
-  > Regarding RHI's assertion in its reply brief and at oral argument that some class members may have immediately been deemed "not placeable" based on obviously disqualifying events like major felonies, RHI offers no evidence of any class member who falls within this category. It may be that a few outlier putative class members do not satisfy the class definition. RHI may present this evidence to the jury, and such persons may be excluded from the class, either by the jury or the Court in post-trial motions. But hypothesizing that some persons on the class list may fall outside the class definition is insufficient to defeat predominance, which "tests whether proposed classes are sufficiently cohesive to warrant adjudication by representation." See *Amchem Prods., Inc. v. Windsor*, 521 U.S. 591, 623 (1997).
-  
-  > RHI also argues that requiring RHI to provide evidence that some people fall outside the class definition improperly shifts the burden to RHI to prove predominance. The Court disagrees. It is a mechanism by which RHI can show that some persons fall outside the class definition, but it does not shift Magallon's burden on predominance. RHI provided no evidence that any persons fall outside the class definition, let alone enough people to cast doubt on predominance. The Court simply allows RHI to provide evidence if there are persons that should be excluded from the class so that this can be done at the earliest possible time, but class members often are excluded during the claims process for not falling within the class definition, sometimes at the defendant's behest, and that does not shift the burden of predominance or destroy predominance. Predominance does not require 100% of class members or putative class members ultimately to fall within the class definition.
-  
-## Article III Standing
-
-### FCRA Cases
-- [*Trans Union, LLC v. Ramirez*](https://www.westlaw.com/Document/I8f17c3c7d55411eb850ac132f535d1eb/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 594 U.S. 413 (2021)
-
-- [*Fernandez v. RentGrow, Inc.*](https://www.westlaw.com/Document/I2876b310705a11efbff58ae190e56f6b/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), No. 22-1619, 2024 WL 4138658 (4th Cir. Sept. 11, 2024)
-  
-### FDCPA Cases
-- [*Maddox v. Bank of New York Mellon Tr. Co., N.A.*](https://www.westlaw.com/Document/I2aad6cd047c911ecbe28a1944976b7ad/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 19 F.4th 58 (2d Cir. 2021) (state-law mortgage claims)
-
-- [*Barclift v. Keystone Credit Servs., LLC*](https://www.westlaw.com/Document/Id0688670cd2111eea701fc879df517b5/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 93 F.4th 136 (3d Cir. 2024)
-
-- [*Freeman v. Ocwen Loan Servicing, LLC*](https://www.westlaw.com/Document/Ib63962a063d611efa914c5573da8f791/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), No. 23-2512, 2024 WL 3941487 (7th Cir. 2024)
-
-- [*Pierre v. Midland Credit Mgmt., Inc.*](https://www.westlaw.com/Document/Ib4d4fde0b22e11ecbc539a6a9fc685ab/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 29 F.4th 934 (7th Cir. 2022), *cert. denied*, 143 S. Ct. 775 (2023)
-
-- [*Ewing v. MED-1 Sols., LLC*](https://www.westlaw.com/Document/I40cb2390846911ecb061fecc2fb6bc54/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0), 24 F.4th 1146 (7th Cir. 2022)**
