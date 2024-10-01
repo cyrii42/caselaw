@@ -1,35 +1,74 @@
-site_name: FCRA & Related Law
+site_name: Consumer Law
 site_url: https://cyrii42.github.io/caselaw
 repo_url: https://github.com/cyrii42/caselaw
 repo_name: cyrii42/caselaw
 
 nav:
-  # - Intro: index.md
+  - index.md
+  
   - Fair Credit Reporting Act: 
-    - index.md
-    - FCRA Statute: fcra/statute.md
+    # - fcra/index.md
+    - Statutory Excerpts: fcra/statute.md
     - Maximum Possible Accuracy: fcra/max_accuracy.md
     - Reinvestigations: fcra/reinvestigations.md
     - Willfulness: fcra/willfulness.md
     - Damages: fcra/damages.md
-    # - FCRA-Specific Class Certification Decisions: fcra/class_cert.md
-  - Class Certification: 
-    - class_cert/index.md
+    - Class Cert: fcra/class_cert.md
+    - Standing: fcra/standing.md
+    - State Analogues: fcra/states.md
+
+  # - FDCPA:
+  #   # - fdcpa/index.md
+  #   - Statutory Excerpts: fdcpa/statute.md
+  #   - Damages: fdcpa/damages.md
+  #   - Class Cert: fdcpa/class_cert.md
+  #   - Standing: fdcpa/standing.md
+  #   - State Analogues: fdcpa/states.md
+    
+  # - TCPA:
+  #   # - tcpa/index.md
+  #   - Statutory Excerpts: tcpa/statute.md
+  #   - Damages: tcpa/damages.md
+  #   - Class Cert: tcpa/class_cert.md
+  #   - Standing: tcpa/standing.md
+  #   - State Analogues: tcpa/states.md
+    
+  # - State Consumer Law:
+  #   - New York:
+  #   - New Jersey:
+  #   - California: 
+  #   - Illinois:
+  #   - Maryland:
+  #   - Massachusetts:
+  #   - Michigan:
+  #   - Minnesota:
+  #   - Pennsylvania:
+  #   - Oregon:
+  #   - Washington: 
+    
+  - Class Cert: 
+    # - class_cert/index.md
     - Fed. R. Civ. P. 23: class_cert/rule23.md
     - Numerosity: class_cert/numerosity.md
     - Commonality: class_cert/commonality.md
     - Typicality: class_cert/typicality.md
     - Adequacy of Representation: class_cert/adequacy.md
     - Ascertainability: class_cert/ascertainability.md
-    - Rule 23(b) Types:
-      - class_cert/23b3_types/index.md
-      - (b)(1) - Inconsistent Adjudications: class_cert/23b3_types/23b1.md
-      - (b)(2) - Injunctive Relief: class_cert/23b3_types/23b2.md
-      - (b)(3) - Predominance: class_cert/23b3_types/23b3.md
-  - Article III Standing: 
-    - standing/index.md
+    - Predominance: class_cert/predominance.md
+    # - Rule 23(b) Types:
+    #   - (b)(1) - Inconsistent Adjudications: class_cert/23b3_types/23b1.md
+    #   - (b)(2) - Injunctive Relief: class_cert/23b3_types/23b2.md
+    #   - (b)(3) - Predominance: class_cert/23b3_types/23b3.md
+    
+  - Standing: 
+    # - standing/index.md
     - FCRA Cases: standing/fcra.md
     - FDCPA Cases: standing/fdcpa.md
+    
+  - Arbitration:
+    # - arbitration/index.md
+    - Federal Arbitration Act: arbitration/faa.md
+    
 theme:
   name: material
   font: 
@@ -50,9 +89,9 @@ theme:
     # - navigation.instant.preview
     - navigation.instant.progress
     - navigation.path
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
     - navigation.top
     - navigation.tracking
     - navigation.expand
@@ -64,28 +103,41 @@ theme:
   language: en
   palette:
   
-      # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
+    - scheme: default
       toggle:
-        icon: material/brightness-auto
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-      # primary: blue
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       # primary: red
       # accent: amber 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      # primary: blue
+      # accent: cyan
+  
+  #     # Palette toggle for automatic mode
+  #   - media: "(prefers-color-scheme)"
+  #     toggle:
+  #       icon: material/brightness-auto
+  #       name: Switch to dark mode
+
+  #   # Palette toggle for dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: slate
+  #     toggle:
+  #       icon: material/brightness-4
+  #       name: Switch to light mode
+  #     # primary: blue
+
+  #   # Palette toggle for light mode
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: default 
+  #     toggle:
+  #       icon: material/brightness-7
+  #       name: Switch to dark mode
+  #     # primary: red
+  #     # accent: amber 
       
 extra:
   social:
@@ -100,35 +152,9 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/zvaughan/
 
- 
-    
-
-  
-    # - scheme: default
-    #   toggle:
-    #     icon: material/toggle-switch-off-outline 
-    #     name: Switch to dark mode
-    #   primary: red
-    #   accent: amber 
-    # - scheme: slate 
-    #   toggle:
-    #     icon: material/toggle-switch
-    #     name: Switch to light mode    
-    #   primary: blue
-      # accent: cyan
-
 plugins:
   # - social
   - search
-
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github-alt
-#       link: https://github.com/james-willett
-#     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/TheJamesWillett
-#     - icon: fontawesome/brands/linkedin
-#       link: https://www.linkedin.com/in/willettjames/
 
 markdown_extensions:
   - pymdownx.highlight:
