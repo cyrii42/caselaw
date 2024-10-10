@@ -32,18 +32,28 @@ def dumb_to_smart_quotes(string: str) -> str:
     string = re.sub(r'=‘(.*?)’', r"='\1'", string)
     return string
 
-def convert_quotes_in_markdown_docs() -> None:
-    for file in DOCS_PATH.iterdir():  
-        if file.suffix == 'md':
+def convert_quotes_in_markdown_docs(directory: Path = DOCS_PATH) -> int:
+    exit_code = 0
+    
+    for file in directory.iterdir():
+        if file.is_dir():
+            exit_code = convert_quotes_in_markdown_docs(file)
+        elif file.suffix == '.md':
             with open(file, 'r') as f:
                 text = f.read()
                 new_text = dumb_to_smart_quotes(text)
-            with open(file, 'w') as f:
-                f.write(new_text)
+            if new_text != text:
+                print(f"Dumb quotes found in {file}. Fixing now...")
+                exit_code = 1
+                with open(file, 'w') as f:
+                    f.write(new_text)
+
+    return exit_code
 
 
 def main():
-    ...
+    exit_code = convert_quotes_in_markdown_docs()
+    exit(exit_code)
 
 if __name__ == '__main__':
     main()
