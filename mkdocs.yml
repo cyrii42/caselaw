@@ -9,6 +9,7 @@ nav:
   - Fair Credit Reporting Act: 
     # - fcra/index.md
     - Statutory Excerpts: fcra/statute.md
+    - Consumer Reporting Agencies: fcra/cra.md
     - Maximum Possible Accuracy: fcra/max_accuracy.md
     - Reinvestigations: fcra/reinvestigations.md
     - Willfulness: fcra/willfulness.md
