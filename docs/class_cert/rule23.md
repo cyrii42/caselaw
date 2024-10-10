@@ -75,12 +75,12 @@ A class action may be maintained if Rule 23(a) is satisfied and if:
 </ul>
     
 #### (e) Settlement, Voluntary Dismissal, or Compromise.
-The claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court's approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
+The claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court’s approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
     <ul>
     <li>(1) Notice to the Class.
         <ul>
         <li>(A) Information That Parties Must Provide to the Court. The parties must provide the court with information sufficient to enable it to determine whether to give notice of the proposal to the class.
-        <li>(B) Grounds for a Decision to Give Notice. The court must direct notice in a reasonable manner to all class members who would be bound by the proposal if giving notice is justified by the parties' showing that the court will likely be able to:
+        <li>(B) Grounds for a Decision to Give Notice. The court must direct notice in a reasonable manner to all class members who would be bound by the proposal if giving notice is justified by the parties’ showing that the court will likely be able to:
             <ul>
             <li>(i) approve the proposal under Rule 23(e)(2); and
             <li>(ii) certify the class for purposes of judgment on the proposal.
@@ -89,12 +89,12 @@ The claims, issues, or defenses of a certified class—or a class proposed to be
     <li>(2) Approval of the Proposal. If the proposal would bind class members, the court may approve it only after a hearing and only on finding that it is fair, reasonable, and adequate after considering whether:
         <ul>
         <li>(A) the class representatives and class counsel have adequately represented the class;
-        <li>(B) the proposal was negotiated at arm's length;
+        <li>(B) the proposal was negotiated at arm’s length;
         <li>(C) the relief provided for the class is adequate, taking into account:
             <ul>
             <li>(i) the costs, risks, and delay of trial and appeal;
             <li>(ii) the effectiveness of any proposed method of distributing relief to the class, including the method of processing class-member claims;
-            <li>(iii) the terms of any proposed award of attorney's fees, including timing of payment; and
+            <li>(iii) the terms of any proposed award of attorney’s fees, including timing of payment; and
             <li>(iv) any agreement required to be identified under Rule 23(e)(3); and
             </ul>
         <li>(D) the proposal treats class members equitably relative to each other.
@@ -114,7 +114,7 @@ The claims, issues, or defenses of a certified class—or a class proposed to be
     </ul>
 
 #### (f) Appeals.
-A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule, but not from an order under Rule 23(e)(1). A party must file a petition for permission to appeal with the circuit clerk within 14 days after the order is entered or within 45 days after the order is entered if any party is the United States, a United States agency, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States' behalf. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
+A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule, but not from an order under Rule 23(e)(1). A party must file a petition for permission to appeal with the circuit clerk within 14 days after the order is entered or within 45 days after the order is entered if any party is the United States, a United States agency, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States’ behalf. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
 
 #### (g) Class Counsel.
 <ul>
@@ -123,13 +123,13 @@ A court of appeals may permit an appeal from an order granting or denying class-
     <li>(A) must consider:
         <ul>
         <li>(i) the work counsel has done in identifying or investigating potential claims in the action;
-        <li>(ii) counsel's experience in handling class actions, other complex litigation, and the types of claims asserted in the action;
-        <li>(iii) counsel's knowledge of the applicable law; and
+        <li>(ii) counsel’s experience in handling class actions, other complex litigation, and the types of claims asserted in the action;
+        <li>(iii) counsel’s knowledge of the applicable law; and
         <li>(iv) the resources that counsel will commit to representing the class;
         </ul>
-    <li>(B) may consider any other matter pertinent to counsel's ability to fairly and adequately represent the interests of the class;
-    <li>(C) may order potential class counsel to provide information on any subject pertinent to the appointment and to propose terms for attorney's fees and nontaxable costs;
-    <li>(D) may include in the appointing order provisions about the award of attorney's fees or nontaxable costs under Rule 23(h); and
+    <li>(B) may consider any other matter pertinent to counsel’s ability to fairly and adequately represent the interests of the class;
+    <li>(C) may order potential class counsel to provide information on any subject pertinent to the appointment and to propose terms for attorney’s fees and nontaxable costs;
+    <li>(D) may include in the appointing order provisions about the award of attorney’s fees or nontaxable costs under Rule 23(h); and
     <li>(E) may make further orders in connection with the appointment.
     </ul>
 <li>(2) Standard for Appointing Class Counsel. When one applicant seeks appointment as class counsel, the court may appoint that applicant only if the applicant is adequate under Rule 23(g)(1) and (4). If more than one adequate applicant seeks appointment, the court must appoint the applicant best able to represent the interests of the class.
@@ -138,8 +138,8 @@ A court of appeals may permit an appeal from an order granting or denying class-
 </ul>
 
 
-#### (h) Attorney's Fees and Nontaxable Costs.
-In a certified class action, the court may award reasonable attorney's fees and nontaxable costs that are authorized by law or by the parties’ agreement. The following procedures apply:
+#### (h) Attorney’s Fees and Nontaxable Costs.
+In a certified class action, the court may award reasonable attorney’s fees and nontaxable costs that are authorized by law or by the parties’ agreement. The following procedures apply:
 <ul>
 <li>(1) A claim for an award must be made by motion under <a href="https://www.law.cornell.edu/rules/frcp/rule_54">Rule 54(d)(2)</a>, subject to the provisions of this subdivision (h), at a time the court sets. Notice of the motion must be served on all parties and, for motions by class counsel, directed to class members in a reasonable manner.
 <li>(2) A class member, or a party from whom payment is sought, may object to the motion.
