@@ -156,7 +156,6 @@ extra:
 plugins:
   # - social
   - search
-  - open-in-new-tab
 
 markdown_extensions:
   - pymdownx.highlight:
